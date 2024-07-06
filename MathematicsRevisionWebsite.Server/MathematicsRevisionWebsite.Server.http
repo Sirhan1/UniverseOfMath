@@ -1,0 +1,6 @@
+@MathematicsRevisionWebsite.Server_HostAddress = http://localhost:5005
+
+GET {{MathematicsRevisionWebsite.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
